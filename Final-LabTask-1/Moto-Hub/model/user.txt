@@ -1,0 +1,2 @@
+mahinur@gmail.com|123|Mahinur |Customer
+onoya@gmail.com|1234|Mrs. Mahin|Customer

@@ -1,0 +1,1 @@
+Database connected with registration process. userModel.php has regFun() method to connect regCheck.php with MotoHub database. MotoHub.sql is given to replicate the database.
