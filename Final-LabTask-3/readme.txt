@@ -1,0 +1,1 @@
+all *val.js files are created to form validate the login.html, reg.html, cusSetting.php, cusDeleteAccount.php, cusChangePass.php files.
